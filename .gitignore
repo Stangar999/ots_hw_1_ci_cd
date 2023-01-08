@@ -3,6 +3,7 @@
 
 /source-12995-af229a
 /source-12995-af229a.zip
+*.user
 
 # Compiled Object files
 *.slo
